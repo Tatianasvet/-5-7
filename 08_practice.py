@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from random import randint
+import os
+os.system('color')
 
 
 # Реализуем модель человека.
